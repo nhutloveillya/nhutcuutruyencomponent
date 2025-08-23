@@ -1,1 +1,1 @@
-# -mycuutruyencomponent
+# mycuutruyencomponent
